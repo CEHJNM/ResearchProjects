@@ -1,2 +1,3 @@
-# ResearchProjects
-Code and Data for specific research projects
+# Research Projects
+
+This repository contains code and Data for specific research projects.
